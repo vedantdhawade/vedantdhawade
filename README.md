@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vedant!  
+# 👋 Hi, I'm Vedant Dhawade!  
 
 ### 🚀 MERN Stack Developer | Problem Solver | Cybersecurity Enthusiast  
 
@@ -31,12 +31,16 @@
 ---
 
 ### 🌟 **Stats & Achievements**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdhawade&layout=compact&theme=radical)
 
 ---
 
 ### 💬 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantdhawade)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+_"💡 Code is like humor. When you have to explain it, it’s bad."_  
