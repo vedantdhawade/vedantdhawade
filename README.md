@@ -31,8 +31,8 @@
 ---
 
 ### 🌟 **Stats & Achievements**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdhawade&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantdhawade&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantdhawade&layout=compact&theme=radical)
 
 ---
 
