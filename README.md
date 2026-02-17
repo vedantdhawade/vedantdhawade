@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer & Data Science Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+intelligent+web+applications;From+data+to+deployment;MERN+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://github.com/vedantdhawade"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+intelligent+web+applications;From+data+to+deployment;MERN+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" /></a>
 </p>
 
 ---
